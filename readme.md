@@ -1,14 +1,8 @@
 ## Installation
 
--> If you don't see the folder in your localhost make a "sudo chmod -R 777 Gallery-master" in terminal 
+-> If you don't see the folder in your localhost make a "sudo chmod -R 777 GalerieTitrePro-master" in terminal 
 <br>
 -> composer update
-<br>
--> create .env
-<br>
--> php artisan key:generate
-<br>
--> php artisan migrate
 <br>
 -> php artisan serve
 _____________________________________________________________________________________________________
