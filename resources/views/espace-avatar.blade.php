@@ -63,8 +63,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="EspaceAvatar/profile80%.png">
-                        <img src="EspaceAvatar/profile80%.png" alt="Sample">
+                    <a class="lightbox" href="EspaceAvatar/profile80.png">
+                        <img src="EspaceAvatar/profile80.png" alt="Sample">
                     </a>
                     <div class="caption">
                         <h3>Profile</h3>
@@ -85,8 +85,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="EspaceAvatar/update30%.png">
-                        <img src="EspaceAvatar/update30%.png" alt="Sample">
+                    <a class="lightbox" href="EspaceAvatar/update30.png">
+                        <img src="EspaceAvatar/update30.png" alt="Sample">
                     </a>
                     <div class="caption">
                         <h3>Update Zoom 30%</h3>
