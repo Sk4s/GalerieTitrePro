@@ -22,7 +22,7 @@
 
     <h1>Gallery</h1>
 
-    <p class="page-description text-center">https://github.com/KBSimplon/Gallery</p>
+    <p class="page-description text-center"><a href="https://github.com/KBSimplon/Gallery" target="_blank">https://github.com/KBSimplon/Gallery</a></p>
     
     <div class="tz-gallery">
 

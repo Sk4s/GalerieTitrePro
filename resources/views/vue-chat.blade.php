@@ -22,7 +22,7 @@
 
     <h1>vueChat</h1>
 
-    <p class="page-description text-center">https://github.com/HanP77/vueChat</p>
+    <p class="page-description text-center"><a href="https://github.com/HanP77/vueChat" target="_blank">https://github.com/HanP77/vueChat</a></p>
     
     <div class="tz-gallery">
 

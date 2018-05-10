@@ -20,9 +20,9 @@
 
 <div class="container gallery-container-SocialNetwork">
 
-    <h1>SocialNetwork</h1>
+    <h1>SocialNetwork (WIP)</h1>
 
-    <p class="page-description text-center">https://github.com/KBSimplon/SocialNetwork</p>
+    <p class="page-description text-center"><a href="https://github.com/KBSimplon/SocialNetwork" target="_blank">https://github.com/KBSimplon/SocialNetwork</a></p>
     
     <div class="tz-gallery">
 

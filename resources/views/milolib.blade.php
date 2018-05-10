@@ -20,9 +20,9 @@
 
 <div class="container gallery-container-Milolib">
 
-    <h1>Milolib</h1>
+    <h1>Milolib (WIP)</h1>
 
-    <p class="page-description text-center">https://github.com/alihasana/MILOLIB</p>
+    <p class="page-description text-center"><a href="https://github.com/alihasana/MILOLIB" target="_blank">https://github.com/alihasana/MILOLIB</a></p>
     
     <div class="tz-gallery">
 
