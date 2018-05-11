@@ -195,6 +195,17 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
+                    <a class="lightbox" href="Milolib/client-select-rdv.png">
+                        <img src="Milolib/client-select-rdv.png" alt="Sample">
+                    </a>
+                    <div class="caption">
+                        <h3>Client select RDV</h3>
+                        <!-- <p>...</p> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
                     <a class="lightbox" href="Milolib/client-access.png">
                         <img src="Milolib/client-access.png" alt="Sample">
                     </a>
