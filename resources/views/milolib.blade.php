@@ -74,6 +74,17 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
+                    <a class="lightbox" href="Milolib/staff-rdv-infos.png">
+                        <img src="Milolib/staff-rdv-infos.png" alt="Sample">
+                    </a>
+                    <div class="caption">
+                        <h3>Staff Rdv Infos</h3>
+                        <!-- <p>...</p> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
                     <a class="lightbox" href="Milolib/staff-create-calendar.png">
                         <img src="Milolib/staff-create-calendar.png" alt="Sample">
                     </a>
