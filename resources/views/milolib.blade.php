@@ -34,7 +34,7 @@
                         <img src="Milolib/s-login.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>S Login</h3>
+                        <h3>Staff Login</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -45,7 +45,7 @@
                         <img src="Milolib/s-dashboard.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>S Dashboard</h3>
+                        <h3>Staff Dashboard</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                         <img src="Milolib/s-user-list.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>S User List</h3>
+                        <h3>Staff User List</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -67,7 +67,7 @@
                         <img src="Milolib/s-calendar.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>S Calendar</h3>
+                        <h3>Staff Calendar</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -78,7 +78,7 @@
                         <img src="Milolib/s-rdv-infos.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>S Rdv Infos</h3>
+                        <h3>Staff Rdv Infos</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -89,7 +89,7 @@
                         <img src="Milolib/s-create-calendar.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>S Create Calendar</h3>
+                        <h3>Staff Create Calendar</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -100,7 +100,7 @@
                         <img src="Milolib/s-setup-calendar.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>S Setup Calendar</h3>
+                        <h3>Staff Setup Calendar</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                         <img src="Milolib/s-profile.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>S Profile</h3>
+                        <h3>Staff Profile</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -122,7 +122,7 @@
                         <img src="Milolib/s-profile-update.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>S Profile Update</h3>
+                        <h3>Staff Profile Update</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -133,7 +133,7 @@
                         <img src="Milolib/s-create-user.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>S Create User</h3>
+                        <h3>Staff Create User</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -144,7 +144,7 @@
                         <img src="Milolib/s-edit-user.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>S Edit User</h3>
+                        <h3>Staff Edit User</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -155,7 +155,7 @@
                         <img src="Milolib/s-access.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>S Access</h3>
+                        <h3>Staff Access</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -166,7 +166,7 @@
                         <img src="Milolib/c-register.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>C Register</h3>
+                        <h3>Client Register</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -177,7 +177,7 @@
                         <img src="Milolib/c-login.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>C Login</h3>
+                        <h3>Client Login</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -188,7 +188,7 @@
                         <img src="Milolib/c-dashboard.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>C Dashboard</h3>
+                        <h3>Client Dashboard</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -199,7 +199,7 @@
                         <img src="Milolib/c-rdv.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>C RDV</h3>
+                        <h3>Client RDV</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -210,7 +210,7 @@
                         <img src="Milolib/c-select-rdv.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>C select RDV</h3>
+                        <h3>Client select RDV</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
@@ -221,7 +221,7 @@
                         <img src="Milolib/c-access.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>C Access</h3>
+                        <h3>Client Access</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
