@@ -30,209 +30,198 @@
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/staff-login.png">
-                        <img src="Milolib/staff-login.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/s-login.png">
+                        <img src="Milolib/s-login.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Staff Login</h3>
+                        <h3>S Login</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/login.png">
-                        <img src="Milolib/login.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/s-dashboard.png">
+                        <img src="Milolib/s-dashboard.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Login</h3>
+                        <h3>S Dashboard</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/staff-dashboard.png">
-                        <img src="Milolib/staff-dashboard.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/s-user-list.png">
+                        <img src="Milolib/s-user-list.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Staff Dashboard</h3>
+                        <h3>S User List</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/staff-user-list.png">
-                        <img src="Milolib/staff-user-list.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/s-calendar.png">
+                        <img src="Milolib/s-calendar.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Staff User List</h3>
+                        <h3>S Calendar</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/staff-calendar.png">
-                        <img src="Milolib/staff-calendar.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/s-rdv-infos.png">
+                        <img src="Milolib/s-rdv-infos.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Staff Calendar</h3>
+                        <h3>S Rdv Infos</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/staff-rdv-infos.png">
-                        <img src="Milolib/staff-rdv-infos.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/s-create-calendar.png">
+                        <img src="Milolib/s-create-calendar.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Staff Rdv Infos</h3>
+                        <h3>S Create Calendar</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/staff-create-calendar.png">
-                        <img src="Milolib/staff-create-calendar.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/s-setup-calendar.png">
+                        <img src="Milolib/s-setup-calendar.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Staff Create Calendar</h3>
+                        <h3>S Setup Calendar</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/staff-setup-calendar.png">
-                        <img src="Milolib/staff-setup-calendar.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/s-profile.png">
+                        <img src="Milolib/s-profile.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Staff Setup Calendar</h3>
+                        <h3>S Profile</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/staff-profile.png">
-                        <img src="Milolib/staff-profile.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/s-profile-update.png">
+                        <img src="Milolib/s-profile-update.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Staff Profile</h3>
+                        <h3>S Profile Update</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/staff-profile-update.png">
-                        <img src="Milolib/staff-profile-update.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/s-create-user.png">
+                        <img src="Milolib/s-create-user.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Staff Profile Update</h3>
+                        <h3>S Create User</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/staff-create-user.png">
-                        <img src="Milolib/staff-create-user.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/s-edit-user.png">
+                        <img src="Milolib/s-edit-user.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Staff Create User</h3>
+                        <h3>S Edit User</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/staff-edit-user.png">
-                        <img src="Milolib/staff-edit-user.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/s-access.png">
+                        <img src="Milolib/s-access.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Staff Edit User</h3>
+                        <h3>S Access</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/staff-access.png">
-                        <img src="Milolib/staff-access.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/c-register.png">
+                        <img src="Milolib/c-register.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Staff Access</h3>
+                        <h3>C Register</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/client-register.png">
-                        <img src="Milolib/client-register.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/c-login.png">
+                        <img src="Milolib/c-login.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Client Register</h3>
+                        <h3>C Login</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/client-login.png">
-                        <img src="Milolib/client-login.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/c-dashboard.png">
+                        <img src="Milolib/c-dashboard.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Client Login</h3>
+                        <h3>C Dashboard</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/client-dashboard.png">
-                        <img src="Milolib/client-dashboard.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/c-rdv.png">
+                        <img src="Milolib/c-rdv.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Client Dashboard</h3>
+                        <h3>C RDV</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/client-rdv.png">
-                        <img src="Milolib/client-rdv.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/c-select-rdv.png">
+                        <img src="Milolib/c-select-rdv.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Client RDV</h3>
+                        <h3>C select RDV</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/client-select-rdv.png">
-                        <img src="Milolib/client-select-rdv.png" alt="Sample">
+                    <a class="lightbox" href="Milolib/c-access.png">
+                        <img src="Milolib/c-access.png" alt="Sample">
                     </a>
                     <div class="caption">
-                        <h3>Client select RDV</h3>
-                        <!-- <p>...</p> -->
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <div class="thumbnail">
-                    <a class="lightbox" href="Milolib/client-access.png">
-                        <img src="Milolib/client-access.png" alt="Sample">
-                    </a>
-                    <div class="caption">
-                        <h3>Client Access</h3>
+                        <h3>C Access</h3>
                         <!-- <p>...</p> -->
                     </div>
                 </div>
